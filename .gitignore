@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all log files
+*.log
+
+# Ignore all .pdf files
+*.pdf
+
+# Ignore all .zip files
+*.zip
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+/dist/
+/build/
